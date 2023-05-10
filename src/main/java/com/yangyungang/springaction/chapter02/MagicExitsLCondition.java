@@ -1,4 +1,4 @@
-package com.yangyungang.springaction.chapter03;
+package com.yangyungang.springaction.chapter02;
 
 import org.springframework.context.annotation.Condition;
 import org.springframework.context.annotation.ConditionContext;

@@ -1,8 +1,4 @@
-package com.yangyungang.springaction.chapter03;
-
-import org.springframework.context.annotation.Scope;
-import org.springframework.context.annotation.ScopedProxyMode;
-import org.springframework.web.context.WebApplicationContext;
+package com.yangyungang.springaction.chapter02;
 
 /**
  * @Description : 普通购物车

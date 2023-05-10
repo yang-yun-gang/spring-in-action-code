@@ -1,6 +1,6 @@
-package com.yangyungang.springaction.chapter03.config;
+package com.yangyungang.springaction.chapter02.config;
 
-import com.yangyungang.springaction.chapter03.Music;
+import com.yangyungang.springaction.chapter02.Music;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

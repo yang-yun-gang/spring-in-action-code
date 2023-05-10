@@ -1,7 +1,7 @@
 package com.yangyungang.springaction;
 
-import com.yangyungang.springaction.chapter02.CDPlayer;
-import com.yangyungang.springaction.chapter02.CompactDisc;
+import com.yangyungang.springaction.chapter01.CDPlayer;
+import com.yangyungang.springaction.chapter01.CompactDisc;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 

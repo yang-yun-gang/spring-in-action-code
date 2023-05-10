@@ -1,7 +1,7 @@
-package com.yangyungang.springaction.chapter02.config;
+package com.yangyungang.springaction.chapter01.config;
 
-import com.yangyungang.springaction.chapter02.CDPlayer;
-import com.yangyungang.springaction.chapter02.CompactDisc;
+import com.yangyungang.springaction.chapter01.CDPlayer;
+import com.yangyungang.springaction.chapter01.CompactDisc;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

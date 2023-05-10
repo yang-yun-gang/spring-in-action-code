@@ -1,4 +1,4 @@
-package com.yangyungang.springaction.chapter03;
+package com.yangyungang.springaction.chapter02;
 
 /**
  * @Description : 冰淇淋

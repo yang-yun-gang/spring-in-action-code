@@ -1,7 +1,7 @@
 package com.yangyungang.springaction;
 
-import com.yangyungang.springaction.chapter03.Movie;
-import com.yangyungang.springaction.chapter03.Music;
+import com.yangyungang.springaction.chapter02.Movie;
+import com.yangyungang.springaction.chapter02.Music;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 

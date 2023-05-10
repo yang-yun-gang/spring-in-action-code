@@ -1,6 +1,6 @@
 package com.yangyungang.springaction;
 
-import com.yangyungang.springaction.chapter03.MagicBean;
+import com.yangyungang.springaction.chapter02.MagicBean;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 

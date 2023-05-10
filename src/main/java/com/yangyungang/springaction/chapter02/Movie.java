@@ -1,4 +1,4 @@
-package com.yangyungang.springaction.chapter03;
+package com.yangyungang.springaction.chapter02;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

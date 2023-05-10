@@ -1,8 +1,8 @@
-package com.yangyungang.springaction.chapter03.config;
+package com.yangyungang.springaction.chapter02.config;
 
-import com.yangyungang.springaction.chapter03.Cake;
-import com.yangyungang.springaction.chapter03.Dessert;
-import com.yangyungang.springaction.chapter03.IceCream;
+import com.yangyungang.springaction.chapter02.Cake;
+import com.yangyungang.springaction.chapter02.Dessert;
+import com.yangyungang.springaction.chapter02.IceCream;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Bean;

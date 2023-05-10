@@ -1,7 +1,7 @@
-package com.yangyungang.springaction.chapter03.config;
+package com.yangyungang.springaction.chapter02.config;
 
-import com.yangyungang.springaction.chapter03.MagicBean;
-import com.yangyungang.springaction.chapter03.MagicExitsLCondition;
+import com.yangyungang.springaction.chapter02.MagicBean;
+import com.yangyungang.springaction.chapter02.MagicExitsLCondition;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Conditional;
 import org.springframework.context.annotation.Configuration;

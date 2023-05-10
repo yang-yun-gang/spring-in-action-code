@@ -1,7 +1,7 @@
-package com.yangyungang.springaction.chapter03.config;
+package com.yangyungang.springaction.chapter02.config;
 
-import com.yangyungang.springaction.chapter03.NormalShoppingCart;
-import com.yangyungang.springaction.chapter03.ShoppingCart;
+import com.yangyungang.springaction.chapter02.NormalShoppingCart;
+import com.yangyungang.springaction.chapter02.ShoppingCart;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;

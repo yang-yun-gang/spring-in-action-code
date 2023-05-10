@@ -1,6 +1,6 @@
 package com.yangyungang.springaction;
 
-import com.yangyungang.springaction.chapter03.Dessert;
+import com.yangyungang.springaction.chapter02.Dessert;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
